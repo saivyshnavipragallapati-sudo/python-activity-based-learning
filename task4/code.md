@@ -21,7 +21,8 @@ Write a Python program to calculate an employee's gross salary using basic pay, 
 10. Stop the program.
 
 ## 3. Flowchart 
-```(mermaid)
+```mermaid
+
 flowchart TD
     A([Start]) --> B[/Enter Employee Details/]
     B --> C[Calculate Overtime Pay]
