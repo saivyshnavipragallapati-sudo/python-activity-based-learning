@@ -20,7 +20,7 @@ Write a Python program to calculate an employee's gross salary using basic pay, 
 9. Display the salary statement.
 10. Stop the program.
 
-## 3. Flowchart 
+## 3. Flowchart(mermaid) 
 ```
 flowchart TD
     A([Start]) --> B[/Enter Employee Details/]
