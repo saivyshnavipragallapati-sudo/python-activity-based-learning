@@ -83,7 +83,7 @@ Conversion Fee: Rs. 510.0
 Final Expense: Rs. 26010.0
 
 Converted Amount: Rs. 17000.0
-Conversion Fee: Rs. 340.0
+Conversion Fee: Rs. 340.0 
 Final Expense: Rs. 17340.0
 
 Converted Amount: Rs. 42500.0
